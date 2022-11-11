@@ -1,0 +1,14 @@
+.page{
+    max-width: 210mm;
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.B{
+    text-align: right;
+    align-self: right;
+}
+
